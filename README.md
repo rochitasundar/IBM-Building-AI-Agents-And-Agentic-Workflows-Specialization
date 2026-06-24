@@ -13,3 +13,8 @@ This repository contains the lab work for Coursera-IBM course on "[Building AI A
 - Developed a LangChain-powered AI agent that enables non-technical users to perform multi-step data science workflows—such as data analysis, statistics, and machine learning model training—using natural language.
 - Engineered an advanced AI agent capable of dynamic, recursive tool calling to interact with external systems, specifically automating YouTube data extraction, transcript fetching, and video summarization.
 - Built an interactive data agent using LangChain's DataFrame agent and Llama 4 on IBM watsonx.ai to dynamically generate charts, graphs, and heatmaps from CSV files using natural language.
+
+
+### Agentic AI with LangChain and LangGraph 
+- Developed state-based AI agents with LangGraph, implementing linear and cyclical Python workflows for credential authentication and automated question-answering.
+- A graph-based AI Reflection Agent built with LangGraph that dynamically evaluates, critiques, and iteratively refines its own content to generate polished LinkedIn posts.
