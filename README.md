@@ -25,4 +25,5 @@ This repository contains the lab work for Coursera-IBM course on "[Building AI A
 ### Agentic AI with LangGraph, CrewAI, AutoGen and BeeAI
 - Implemented sequential coordination, intent-based routing, and parallel execution for multi-agent workflows using LangGraph and LangChain.
 - Built parallel meal-planning and iterative investment-advising systems in LangGraph using Orchestrator-Worker and Reflection agentic design patterns.
+- Built a CrewAI sequential pipeline orchestrating a web-search equipped Research Agent and a Content Strategist Agent to transform raw data into blogs.
   
