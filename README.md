@@ -28,4 +28,5 @@ This repository contains the lab work for Coursera-IBM course on "[Building AI A
 - Built a CrewAI sequential pipeline orchestrating a web-search equipped Research Agent and a Content Strategist Agent to transform raw data into blogs.
 - Built a A multi-agent CrewAI system that automates meal planning and budget-optimized grocery list generation using structured Pydantic models.
 - Built a CrewAI-powered restaurant chatbot project demonstrating how to orchestrate multi-agent workflows and optimize Agent-level vs. Task-level tool assignment.
+- Hands-on guide to mastering enterprise-grade multi-agent AI systems with the BeeAI Framework.
   
